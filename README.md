@@ -43,9 +43,7 @@ or
   yarn run dev
 ```
 #
-## Demo
 
-Insert gif or link to demo
 
 
 ## Deployed
